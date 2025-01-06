@@ -15,9 +15,9 @@ sklearn
 
 ## GetResults
 #Run the following commands in linux environment to obtain 5 reports corresponding to 5-fold cross-verification
-nohup python ./CFFAT_fold1.py > ./Fold1Result.log 2>&1 &
-nohup python ./CFFAT_fold2.py > ./Fold2Result.log 2>&1 &
-nohup python ./CFFAT_fold3.py > ./Fold3Result.log 2>&1 &
-nohup python ./CFFAT_fold4.py > ./Fold4Result.log 2>&1 &
-nohup python ./CFFAT_fold5.py > ./Fold5Result.log 2>&1 &
+nohup python ./CFFAT_fold1.py > ./Fold1Result.log 2>&1 & <br/>
+nohup python ./CFFAT_fold2.py > ./Fold2Result.log 2>&1 & <br/>
+nohup python ./CFFAT_fold3.py > ./Fold3Result.log 2>&1 & <br/>
+nohup python ./CFFAT_fold4.py > ./Fold4Result.log 2>&1 & <br/>
+nohup python ./CFFAT_fold5.py > ./Fold5Result.log 2>&1 & <br/>
 
