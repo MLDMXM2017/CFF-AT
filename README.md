@@ -14,7 +14,7 @@ sklearn
 (4)"task_relation_cov_distance.csv", this csv file contains pre-calculated covariance relationship among subtasks.<br/>
 
 ## GetResults
-#Run the following commands in linux environment to obtain 5 reports corresponding to 5-fold cross-verification
+#Run the following commands in linux environment to obtain 5 reports corresponding to 5-fold cross-verification <br/>
 nohup python ./CFFAT_fold1.py > ./Fold1Result.log 2>&1 & <br/>
 nohup python ./CFFAT_fold2.py > ./Fold2Result.log 2>&1 & <br/>
 nohup python ./CFFAT_fold3.py > ./Fold3Result.log 2>&1 & <br/>
