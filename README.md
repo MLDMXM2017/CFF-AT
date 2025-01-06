@@ -8,10 +8,10 @@ pandas
 sklearn    
 
 ## CodeAndData
-(1)The feature folder contains 59 toxicity datasets, the feature type is Avalon.
-(2)The label folder contains 59 label files corresponding to 59 toxicity datasets.
-(3)The label is in the last column of the label file.
-(4)"task_relation_cov_distance.csv", this csv file contains pre-calculated covariance relationship among subtasks.
+(1)The feature folder contains 59 toxicity datasets, the feature type is Avalon. <br/>
+(2)The label folder contains 59 label files corresponding to 59 toxicity datasets. <br/>
+(3)The label is in the last column of the label file. <br/>
+(4)"task_relation_cov_distance.csv", this csv file contains pre-calculated covariance relationship among subtasks.<br/>
 
 ## GetResults
 #Run the following commands in linux environment to obtain 5 reports corresponding to 5-fold cross-verification
