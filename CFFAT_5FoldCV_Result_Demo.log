@@ -1,0 +1,638 @@
+nohup: ignoring input
+
+*****Parameter Setting*****
+Feature type: Avalon
+Num of subtasks: 59
+Seed: 42
+
+***** 1 -th fold, modeling for each subtask*****
+1 -th task's initial training data shape: (270, 1024)
+r2: 0.552
+2 -th task's initial training data shape: (282, 1024)
+r2: 0.51
+3 -th task's initial training data shape: (153, 1024)
+r2: 0.707
+4 -th task's initial training data shape: (281, 1024)
+r2: 0.613
+5 -th task's initial training data shape: (89, 1024)
+r2: 0.476
+6 -th task's initial training data shape: (436, 1024)
+r2: 0.502
+7 -th task's initial training data shape: (539, 1024)
+r2: 0.573
+8 -th task's initial training data shape: (100, 1024)
+r2: 0.505
+9 -th task's initial training data shape: (903, 1024)
+r2: 0.683
+10 -th task's initial training data shape: (198, 1024)
+r2: 0.798
+11 -th task's initial training data shape: (122, 1024)
+r2: 0.803
+12 -th task's initial training data shape: (96, 1024)
+r2: 0.828
+13 -th task's initial training data shape: (634, 1024)
+r2: 0.767
+14 -th task's initial training data shape: (140, 1024)
+r2: 0.322
+15 -th task's initial training data shape: (135, 1024)
+r2: 0.752
+16 -th task's initial training data shape: (143, 1024)
+r2: 0.673
+17 -th task's initial training data shape: (456, 1024)
+r2: 0.647
+18 -th task's initial training data shape: (29036, 1024)
+r2: 0.655
+19 -th task's initial training data shape: (212, 1024)
+r2: 0.684
+20 -th task's initial training data shape: (13582, 1024)
+r2: 0.597
+21 -th task's initial training data shape: (81, 1024)
+r2: 0.681
+22 -th task's initial training data shape: (18698, 1024)
+r2: 0.601
+23 -th task's initial training data shape: (211, 1024)
+r2: 0.388
+24 -th task's initial training data shape: (241, 1024)
+r2: 0.67
+25 -th task's initial training data shape: (171, 1024)
+r2: 0.31
+26 -th task's initial training data shape: (5415, 1024)
+r2: 0.731
+27 -th task's initial training data shape: (201, 1024)
+r2: 0.517
+28 -th task's initial training data shape: (1391, 1024)
+r2: 0.785
+29 -th task's initial training data shape: (240, 1024)
+r2: 0.698
+30 -th task's initial training data shape: (4016, 1024)
+r2: 0.697
+31 -th task's initial training data shape: (254, 1024)
+r2: 0.598
+32 -th task's initial training data shape: (1977, 1024)
+r2: 0.754
+33 -th task's initial training data shape: (108, 1024)
+r2: 0.066
+34 -th task's initial training data shape: (8152, 1024)
+r2: 0.681
+35 -th task's initial training data shape: (257, 1024)
+r2: 0.464
+36 -th task's initial training data shape: (668, 1024)
+r2: 0.54
+37 -th task's initial training data shape: (1516, 1024)
+r2: 0.742
+38 -th task's initial training data shape: (139, 1024)
+r2: 0.732
+39 -th task's initial training data shape: (644, 1024)
+r2: 0.619
+40 -th task's initial training data shape: (208, 1024)
+r2: 0.703
+41 -th task's initial training data shape: (127, 1024)
+r2: 0.651
+42 -th task's initial training data shape: (136, 1024)
+r2: 0.73
+43 -th task's initial training data shape: (113, 1024)
+r2: 0.494
+44 -th task's initial training data shape: (104, 1024)
+r2: 0.785
+45 -th task's initial training data shape: (633, 1024)
+r2: 0.814
+46 -th task's initial training data shape: (276, 1024)
+r2: 0.518
+47 -th task's initial training data shape: (715, 1024)
+r2: 0.755
+48 -th task's initial training data shape: (199, 1024)
+r2: 0.678
+49 -th task's initial training data shape: (1196, 1024)
+r2: 0.492
+50 -th task's initial training data shape: (144, 1024)
+r2: 0.456
+51 -th task's initial training data shape: (124, 1024)
+r2: 0.822
+52 -th task's initial training data shape: (192, 1024)
+r2: 0.697
+53 -th task's initial training data shape: (374, 1024)
+r2: 0.717
+54 -th task's initial training data shape: (288, 1024)
+r2: 0.634
+55 -th task's initial training data shape: (519, 1024)
+r2: 0.525
+56 -th task's initial training data shape: (149, 1024)
+r2: 0.64
+57 -th task's initial training data shape: (112, 1024)
+r2: 0.423
+58 -th task's initial training data shape: (124, 1024)
+r2: -0.078
+59 -th task's initial training data shape: (130, 1024)
+r2: 0.119
+
+***** 1 -th fold, average performance for all subtasks*****
+all subtask's average r2: 0.602
+all subtask's average rmse: 0.629
+all subtask's average mae: 0.45
+
+***** 2 -th fold, modeling for each subtask*****
+1 -th task's initial training data shape: (270, 1024)
+r2: 0.552
+2 -th task's initial training data shape: (282, 1024)
+r2: 0.574
+3 -th task's initial training data shape: (153, 1024)
+r2: 0.738
+4 -th task's initial training data shape: (281, 1024)
+r2: 0.573
+5 -th task's initial training data shape: (89, 1024)
+r2: 0.461
+6 -th task's initial training data shape: (436, 1024)
+r2: 0.75
+7 -th task's initial training data shape: (539, 1024)
+r2: 0.497
+8 -th task's initial training data shape: (100, 1024)
+r2: 0.5
+9 -th task's initial training data shape: (903, 1024)
+r2: 0.514
+10 -th task's initial training data shape: (198, 1024)
+r2: 0.862
+11 -th task's initial training data shape: (122, 1024)
+r2: 0.411
+12 -th task's initial training data shape: (97, 1024)
+r2: 0.771
+13 -th task's initial training data shape: (634, 1024)
+r2: 0.731
+14 -th task's initial training data shape: (141, 1024)
+r2: 0.51
+15 -th task's initial training data shape: (135, 1024)
+r2: 0.82
+16 -th task's initial training data shape: (143, 1024)
+r2: 0.764
+17 -th task's initial training data shape: (457, 1024)
+r2: 0.682
+18 -th task's initial training data shape: (29036, 1024)
+r2: 0.645
+19 -th task's initial training data shape: (213, 1024)
+r2: 0.699
+20 -th task's initial training data shape: (13582, 1024)
+r2: 0.618
+21 -th task's initial training data shape: (81, 1024)
+r2: 0.481
+22 -th task's initial training data shape: (18698, 1024)
+r2: 0.596
+23 -th task's initial training data shape: (211, 1024)
+r2: 0.483
+24 -th task's initial training data shape: (241, 1024)
+r2: 0.528
+25 -th task's initial training data shape: (171, 1024)
+r2: 0.541
+26 -th task's initial training data shape: (5415, 1024)
+r2: 0.649
+27 -th task's initial training data shape: (201, 1024)
+r2: 0.465
+28 -th task's initial training data shape: (1391, 1024)
+r2: 0.77
+29 -th task's initial training data shape: (240, 1024)
+r2: 0.707
+30 -th task's initial training data shape: (4017, 1024)
+r2: 0.717
+31 -th task's initial training data shape: (254, 1024)
+r2: 0.596
+32 -th task's initial training data shape: (1977, 1024)
+r2: 0.738
+33 -th task's initial training data shape: (108, 1024)
+r2: 0.307
+34 -th task's initial training data shape: (8152, 1024)
+r2: 0.7
+35 -th task's initial training data shape: (257, 1024)
+r2: 0.539
+36 -th task's initial training data shape: (668, 1024)
+r2: 0.42
+37 -th task's initial training data shape: (1517, 1024)
+r2: 0.704
+38 -th task's initial training data shape: (139, 1024)
+r2: 0.559
+39 -th task's initial training data shape: (645, 1024)
+r2: 0.774
+40 -th task's initial training data shape: (209, 1024)
+r2: 0.753
+41 -th task's initial training data shape: (127, 1024)
+r2: 0.739
+42 -th task's initial training data shape: (137, 1024)
+r2: 0.656
+43 -th task's initial training data shape: (113, 1024)
+r2: 0.607
+44 -th task's initial training data shape: (105, 1024)
+r2: 0.65
+45 -th task's initial training data shape: (633, 1024)
+r2: 0.839
+46 -th task's initial training data shape: (277, 1024)
+r2: 0.614
+47 -th task's initial training data shape: (715, 1024)
+r2: 0.618
+48 -th task's initial training data shape: (199, 1024)
+r2: 0.567
+49 -th task's initial training data shape: (1196, 1024)
+r2: 0.548
+50 -th task's initial training data shape: (145, 1024)
+r2: 0.559
+51 -th task's initial training data shape: (125, 1024)
+r2: 0.849
+52 -th task's initial training data shape: (193, 1024)
+r2: 0.821
+53 -th task's initial training data shape: (374, 1024)
+r2: 0.784
+54 -th task's initial training data shape: (288, 1024)
+r2: 0.78
+55 -th task's initial training data shape: (519, 1024)
+r2: 0.528
+56 -th task's initial training data shape: (149, 1024)
+r2: 0.438
+57 -th task's initial training data shape: (112, 1024)
+r2: 0.573
+58 -th task's initial training data shape: (125, 1024)
+r2: 0.57
+59 -th task's initial training data shape: (130, 1024)
+r2: 0.325
+
+***** 2 -th fold, average performance for all subtasks*****
+all subtask's average r2: 0.623
+all subtask's average rmse: 0.605
+all subtask's average mae: 0.438
+
+***** 3 -th fold, modeling for each subtask*****
+1 -th task's initial training data shape: (270, 1024)
+r2: 0.64
+2 -th task's initial training data shape: (282, 1024)
+r2: 0.558
+3 -th task's initial training data shape: (154, 1024)
+r2: 0.76
+4 -th task's initial training data shape: (282, 1024)
+r2: 0.702
+5 -th task's initial training data shape: (90, 1024)
+r2: 0.699
+6 -th task's initial training data shape: (436, 1024)
+r2: 0.629
+7 -th task's initial training data shape: (539, 1024)
+r2: 0.606
+8 -th task's initial training data shape: (100, 1024)
+r2: 0.062
+9 -th task's initial training data shape: (903, 1024)
+r2: 0.705
+10 -th task's initial training data shape: (198, 1024)
+r2: 0.536
+11 -th task's initial training data shape: (122, 1024)
+r2: 0.584
+12 -th task's initial training data shape: (97, 1024)
+r2: 0.533
+13 -th task's initial training data shape: (634, 1024)
+r2: 0.846
+14 -th task's initial training data shape: (141, 1024)
+r2: 0.634
+15 -th task's initial training data shape: (135, 1024)
+r2: 0.845
+16 -th task's initial training data shape: (143, 1024)
+r2: 0.805
+17 -th task's initial training data shape: (457, 1024)
+r2: 0.753
+18 -th task's initial training data shape: (29036, 1024)
+r2: 0.655
+19 -th task's initial training data shape: (213, 1024)
+r2: 0.548
+20 -th task's initial training data shape: (13582, 1024)
+r2: 0.582
+21 -th task's initial training data shape: (82, 1024)
+r2: 0.859
+22 -th task's initial training data shape: (18698, 1024)
+r2: 0.591
+23 -th task's initial training data shape: (211, 1024)
+r2: 0.548
+24 -th task's initial training data shape: (242, 1024)
+r2: 0.317
+25 -th task's initial training data shape: (171, 1024)
+r2: 0.685
+26 -th task's initial training data shape: (5415, 1024)
+r2: 0.695
+27 -th task's initial training data shape: (202, 1024)
+r2: 0.722
+28 -th task's initial training data shape: (1391, 1024)
+r2: 0.732
+29 -th task's initial training data shape: (240, 1024)
+r2: 0.709
+30 -th task's initial training data shape: (4017, 1024)
+r2: 0.738
+31 -th task's initial training data shape: (254, 1024)
+r2: 0.555
+32 -th task's initial training data shape: (1978, 1024)
+r2: 0.768
+33 -th task's initial training data shape: (108, 1024)
+r2: 0.539
+34 -th task's initial training data shape: (8152, 1024)
+r2: 0.696
+35 -th task's initial training data shape: (258, 1024)
+r2: 0.485
+36 -th task's initial training data shape: (668, 1024)
+r2: 0.489
+37 -th task's initial training data shape: (1517, 1024)
+r2: 0.728
+38 -th task's initial training data shape: (139, 1024)
+r2: 0.389
+39 -th task's initial training data shape: (645, 1024)
+r2: 0.765
+40 -th task's initial training data shape: (209, 1024)
+r2: 0.805
+41 -th task's initial training data shape: (127, 1024)
+r2: 0.699
+42 -th task's initial training data shape: (137, 1024)
+r2: 0.765
+43 -th task's initial training data shape: (114, 1024)
+r2: 0.371
+44 -th task's initial training data shape: (105, 1024)
+r2: 0.671
+45 -th task's initial training data shape: (634, 1024)
+r2: 0.834
+46 -th task's initial training data shape: (277, 1024)
+r2: 0.597
+47 -th task's initial training data shape: (715, 1024)
+r2: 0.73
+48 -th task's initial training data shape: (199, 1024)
+r2: 0.753
+49 -th task's initial training data shape: (1196, 1024)
+r2: 0.423
+50 -th task's initial training data shape: (145, 1024)
+r2: 0.308
+51 -th task's initial training data shape: (125, 1024)
+r2: 0.573
+52 -th task's initial training data shape: (193, 1024)
+r2: 0.511
+53 -th task's initial training data shape: (374, 1024)
+r2: 0.799
+54 -th task's initial training data shape: (288, 1024)
+r2: 0.68
+55 -th task's initial training data shape: (519, 1024)
+r2: 0.538
+56 -th task's initial training data shape: (150, 1024)
+r2: 0.711
+57 -th task's initial training data shape: (112, 1024)
+r2: -0.135
+58 -th task's initial training data shape: (125, 1024)
+r2: 0.506
+59 -th task's initial training data shape: (130, 1024)
+r2: 0.459
+
+***** 3 -th fold, average performance for all subtasks*****
+all subtask's average r2: 0.615
+all subtask's average rmse: 0.593
+all subtask's average mae: 0.432
+
+***** 4 -th fold, modeling for each subtask*****
+1 -th task's initial training data shape: (271, 1024)
+r2: 0.55
+2 -th task's initial training data shape: (283, 1024)
+r2: 0.593
+3 -th task's initial training data shape: (154, 1024)
+r2: 0.564
+4 -th task's initial training data shape: (282, 1024)
+r2: 0.724
+5 -th task's initial training data shape: (90, 1024)
+r2: 0.031
+6 -th task's initial training data shape: (436, 1024)
+r2: 0.605
+7 -th task's initial training data shape: (539, 1024)
+r2: 0.645
+8 -th task's initial training data shape: (100, 1024)
+r2: 0.468
+9 -th task's initial training data shape: (903, 1024)
+r2: 0.649
+10 -th task's initial training data shape: (199, 1024)
+r2: 0.721
+11 -th task's initial training data shape: (123, 1024)
+r2: 0.762
+12 -th task's initial training data shape: (97, 1024)
+r2: 0.84
+13 -th task's initial training data shape: (635, 1024)
+r2: 0.653
+14 -th task's initial training data shape: (141, 1024)
+r2: 0.19
+15 -th task's initial training data shape: (135, 1024)
+r2: 0.111
+16 -th task's initial training data shape: (143, 1024)
+r2: 0.846
+17 -th task's initial training data shape: (457, 1024)
+r2: 0.684
+18 -th task's initial training data shape: (29036, 1024)
+r2: 0.663
+19 -th task's initial training data shape: (213, 1024)
+r2: 0.463
+20 -th task's initial training data shape: (13583, 1024)
+r2: 0.612
+21 -th task's initial training data shape: (82, 1024)
+r2: 0.556
+22 -th task's initial training data shape: (18699, 1024)
+r2: 0.58
+23 -th task's initial training data shape: (211, 1024)
+r2: 0.347
+24 -th task's initial training data shape: (242, 1024)
+r2: 0.49
+25 -th task's initial training data shape: (171, 1024)
+r2: 0.483
+26 -th task's initial training data shape: (5415, 1024)
+r2: 0.765
+27 -th task's initial training data shape: (202, 1024)
+r2: 0.617
+28 -th task's initial training data shape: (1391, 1024)
+r2: 0.652
+29 -th task's initial training data shape: (240, 1024)
+r2: 0.747
+30 -th task's initial training data shape: (4017, 1024)
+r2: 0.71
+31 -th task's initial training data shape: (255, 1024)
+r2: 0.537
+32 -th task's initial training data shape: (1978, 1024)
+r2: 0.776
+33 -th task's initial training data shape: (108, 1024)
+r2: 0.645
+34 -th task's initial training data shape: (8152, 1024)
+r2: 0.698
+35 -th task's initial training data shape: (258, 1024)
+r2: 0.627
+36 -th task's initial training data shape: (668, 1024)
+r2: 0.622
+37 -th task's initial training data shape: (1517, 1024)
+r2: 0.711
+38 -th task's initial training data shape: (139, 1024)
+r2: 0.718
+39 -th task's initial training data shape: (645, 1024)
+r2: 0.724
+40 -th task's initial training data shape: (209, 1024)
+r2: 0.719
+41 -th task's initial training data shape: (127, 1024)
+r2: 0.833
+42 -th task's initial training data shape: (137, 1024)
+r2: 0.596
+43 -th task's initial training data shape: (114, 1024)
+r2: -0.011
+44 -th task's initial training data shape: (105, 1024)
+r2: 0.77
+45 -th task's initial training data shape: (634, 1024)
+r2: 0.769
+46 -th task's initial training data shape: (277, 1024)
+r2: 0.697
+47 -th task's initial training data shape: (715, 1024)
+r2: 0.656
+48 -th task's initial training data shape: (199, 1024)
+r2: 0.605
+49 -th task's initial training data shape: (1196, 1024)
+r2: 0.583
+50 -th task's initial training data shape: (145, 1024)
+r2: 0.292
+51 -th task's initial training data shape: (125, 1024)
+r2: 0.67
+52 -th task's initial training data shape: (193, 1024)
+r2: 0.833
+53 -th task's initial training data shape: (375, 1024)
+r2: 0.792
+54 -th task's initial training data shape: (288, 1024)
+r2: 0.789
+55 -th task's initial training data shape: (519, 1024)
+r2: 0.441
+56 -th task's initial training data shape: (150, 1024)
+r2: 0.489
+57 -th task's initial training data shape: (112, 1024)
+r2: 0.329
+58 -th task's initial training data shape: (125, 1024)
+r2: 0.432
+59 -th task's initial training data shape: (131, 1024)
+r2: 0.446
+
+***** 4 -th fold, average performance for all subtasks*****
+all subtask's average r2: 0.595
+all subtask's average rmse: 0.621
+all subtask's average mae: 0.446
+
+***** 5 -th fold, modeling for each subtask*****
+1 -th task's initial training data shape: (271, 1024)
+r2: 0.53
+2 -th task's initial training data shape: (283, 1024)
+r2: 0.566
+3 -th task's initial training data shape: (154, 1024)
+r2: 0.629
+4 -th task's initial training data shape: (282, 1024)
+r2: 0.43
+5 -th task's initial training data shape: (90, 1024)
+r2: 0.277
+6 -th task's initial training data shape: (436, 1024)
+r2: 0.69
+7 -th task's initial training data shape: (540, 1024)
+r2: 0.648
+8 -th task's initial training data shape: (100, 1024)
+r2: 0.5
+9 -th task's initial training data shape: (904, 1024)
+r2: 0.556
+10 -th task's initial training data shape: (199, 1024)
+r2: 0.682
+11 -th task's initial training data shape: (123, 1024)
+r2: 0.797
+12 -th task's initial training data shape: (97, 1024)
+r2: 0.8
+13 -th task's initial training data shape: (635, 1024)
+r2: 0.824
+14 -th task's initial training data shape: (141, 1024)
+r2: 0.731
+15 -th task's initial training data shape: (136, 1024)
+r2: 0.833
+16 -th task's initial training data shape: (144, 1024)
+r2: 0.932
+17 -th task's initial training data shape: (457, 1024)
+r2: 0.799
+18 -th task's initial training data shape: (29036, 1024)
+r2: 0.661
+19 -th task's initial training data shape: (213, 1024)
+r2: 0.196
+20 -th task's initial training data shape: (13583, 1024)
+r2: 0.59
+21 -th task's initial training data shape: (82, 1024)
+r2: 0.569
+22 -th task's initial training data shape: (18699, 1024)
+r2: 0.592
+23 -th task's initial training data shape: (212, 1024)
+r2: 0.133
+24 -th task's initial training data shape: (242, 1024)
+r2: 0.55
+25 -th task's initial training data shape: (172, 1024)
+r2: 0.599
+26 -th task's initial training data shape: (5416, 1024)
+r2: 0.691
+27 -th task's initial training data shape: (202, 1024)
+r2: 0.735
+28 -th task's initial training data shape: (1392, 1024)
+r2: 0.774
+29 -th task's initial training data shape: (240, 1024)
+r2: 0.611
+30 -th task's initial training data shape: (4017, 1024)
+r2: 0.729
+31 -th task's initial training data shape: (255, 1024)
+r2: 0.652
+32 -th task's initial training data shape: (1978, 1024)
+r2: 0.799
+33 -th task's initial training data shape: (108, 1024)
+r2: 0.743
+34 -th task's initial training data shape: (8152, 1024)
+r2: 0.697
+35 -th task's initial training data shape: (258, 1024)
+r2: 0.331
+36 -th task's initial training data shape: (668, 1024)
+r2: 0.409
+37 -th task's initial training data shape: (1517, 1024)
+r2: 0.779
+38 -th task's initial training data shape: (140, 1024)
+r2: 0.77
+39 -th task's initial training data shape: (645, 1024)
+r2: 0.73
+40 -th task's initial training data shape: (209, 1024)
+r2: 0.754
+41 -th task's initial training data shape: (128, 1024)
+r2: 0.672
+42 -th task's initial training data shape: (137, 1024)
+r2: 0.806
+43 -th task's initial training data shape: (114, 1024)
+r2: 0.59
+44 -th task's initial training data shape: (105, 1024)
+r2: 0.341
+45 -th task's initial training data shape: (634, 1024)
+r2: 0.76
+46 -th task's initial training data shape: (277, 1024)
+r2: 0.599
+47 -th task's initial training data shape: (716, 1024)
+r2: 0.673
+48 -th task's initial training data shape: (200, 1024)
+r2: 0.42
+49 -th task's initial training data shape: (1196, 1024)
+r2: 0.451
+50 -th task's initial training data shape: (145, 1024)
+r2: 0.459
+51 -th task's initial training data shape: (125, 1024)
+r2: 0.687
+52 -th task's initial training data shape: (193, 1024)
+r2: 0.711
+53 -th task's initial training data shape: (375, 1024)
+r2: 0.677
+54 -th task's initial training data shape: (288, 1024)
+r2: 0.714
+55 -th task's initial training data shape: (520, 1024)
+r2: 0.684
+56 -th task's initial training data shape: (150, 1024)
+r2: 0.53
+57 -th task's initial training data shape: (112, 1024)
+r2: 0.043
+58 -th task's initial training data shape: (125, 1024)
+r2: 0.456
+59 -th task's initial training data shape: (131, 1024)
+r2: 0.112
+
+***** 5 -th fold, average performance for all subtasks*****
+all subtask's average r2: 0.605
+all subtask's average rmse: 0.599
+all subtask's average mae: 0.431
+
+
+***** 5-fold-CV average performance for all subtasks*****
+average r2: 0.608
+average rmse: 0.609
+average mae: 0.439
+
